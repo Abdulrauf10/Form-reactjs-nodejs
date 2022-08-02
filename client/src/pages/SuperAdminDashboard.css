@@ -1,0 +1,27 @@
+.dashboard-admin{
+  padding: 40px;
+}
+
+.table-striped{
+  margin-top: 70px;
+}
+
+.navbar-admin{
+  display: flex;
+}
+
+.tfi.nav{
+  color: white;
+}
+
+.header-table{
+  padding-left: 40px !important;
+  padding-right: 40px !important;
+  text-align: center;
+}
+
+.body{
+  padding-left: 40px !important;
+  padding-right: 40px !important;
+  text-align: center;
+}
